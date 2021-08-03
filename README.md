@@ -1,4 +1,4 @@
-# ViBrowserBB10 (abandoned)
+# ViBrowserBB10
 
 These are the remnants of a project I started to create a web browser for
 BlackBerryOS 10 that behaves like Firefox with Vimperator, and could be
